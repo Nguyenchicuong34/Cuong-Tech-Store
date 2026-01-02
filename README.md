@@ -16,7 +16,7 @@ One of the highlights of this project is the **interactive UI**, including a cus
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 * **Frontend:** HTML5, CSS3, JavaScript.
 * **Backend:** Python (Flask) 
 * **Database:**  MySQL 
